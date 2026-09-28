@@ -128,12 +128,12 @@ Production-style n8n workflows: a **Telegram voice assistant** (STT â†’ agent â†
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hariharan17194&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080B10&title_color=42E6D4&icon_color=FFB454&text_color=E9EDF2&ring_color=42E6D4" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan17194&layout=compact&langs_count=6&hide_border=true&bg_color=080B10&title_color=42E6D4&text_color=E9EDF2" alt="Top languages"/>
+<img width="100%" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution summary"/>
+
+<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+<img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language"/>
 
 <img src="https://streak-stats.demolab.com?user=Hariharan17194&hide_border=true&background=080B10&ring=42E6D4&fire=FFB454&currStreakNum=E9EDF2&sideNums=E9EDF2&currStreakLabel=42E6D4&sideLabels=7E8A99&dates=7E8A99&stroke=1B2330" alt="Contribution streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharan17194&bg_color=080B10&color=7E8A99&line=42E6D4&point=FFB454&area=true&area_color=42E6D4&title_color=E9EDF2&hide_border=true" alt="Contribution activity graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariharan17194/Hariharan17194/output/snake-dark.svg"/>
