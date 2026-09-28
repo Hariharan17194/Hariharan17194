@@ -5,14 +5,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080B10,55:0C1017,100:42E6D4&text=Hariharan%20Padmanabhan&fontColor=E9EDF2&fontSize=46&fontAlignY=36&desc=SIGNAL%20%E2%86%92%20SYSTEM&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hariharan Padmanabhan — Signal to System"/>
+<img src="assets/header.png" width="100%" alt="Hariharan Padmanabhan — Applied AI Engineer · Customer-Experience AI"/>
 
 <a href="https://hariharan17194.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=2800&pause=900&color=42E6D4&center=true&vCenter=true&width=640&lines=Applied+AI+Engineer+%C2%B7+Customer-Experience+AI;Hybrid+RAG+%E2%80%94+vectors+%2B+knowledge+graphs;Multi-agent+systems+with+AutoGen+%26+CrewAI;n8n+automations+that+actually+ship" alt="Typing intro"/>
 </a>
 
 <p>
-  <a href="https://hariharan17194.github.io/"><img src="https://img.shields.io/badge/Portfolio-080B10?style=for-the-badge&logo=githubpages&logoColor=42E6D4" alt="Portfolio"/></a>
+  <a href="https://hariharan17194.github.io/"><img src="https://img.shields.io/badge/Portfolio-080B10?style=for-the-badge&logo=googlechrome&logoColor=42E6D4" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/hari-haran-68030122a"><img src="https://img.shields.io/badge/LinkedIn-080B10?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzQyRTZENCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
   <a href="mailto:hariharan.padmanabhan17@gmail.com"><img src="https://img.shields.io/badge/Email-080B10?style=for-the-badge&logo=gmail&logoColor=FFB454" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Hariharan17194&style=for-the-badge&color=42E6D4&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -150,6 +150,5 @@ Production-style n8n workflows: a **Telegram voice assistant** (STT → agent �
 **Building AI for the people on both sides of the support ticket.**<br/>
 <sub>Open to AI Engineer / AI Support Specialist / Prompt Engineer roles · India · Remote · Relocation</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:42E6D4,45:0C1017,100:080B10" width="100%" alt=""/>
 
 </div>
