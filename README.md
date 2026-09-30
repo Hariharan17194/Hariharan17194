@@ -40,46 +40,39 @@ looking_for: Applied AI · GenAI / LLM · AI Automation Engineer roles
 
 ### `> ls ./featured`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### 🧠 [Hybrid Graph RAG](https://github.com/Hariharan17194/hybrid-graph-rag)
-PDF Q&A that fuses **ChromaDB vector search** with a **NetworkX knowledge graph**, cites every source (`[V1]`, `[G2]`), and screens input/output with guardrails. FastAPI + Streamlit, one `docker compose up`.
+## ⭐ Three projects I’d show a hiring team first
 
-`FastAPI` `ChromaDB` `NetworkX` `Ollama` `Docker`
+</div>
 
-</td>
-<td width="50%" valign="top">
+### 01 · 🧠 [Hybrid Graph RAG](https://github.com/Hariharan17194/hybrid-graph-rag)
+**Production-style document intelligence with two retrieval paths.** ChromaDB vector search and a NetworkX knowledge graph are fused into grounded answers with inline source citations, input/output guardrails, provider switching, persistent storage, Docker Compose and a deployed demo.
 
-#### 🎧 [AutoGen Support Desk](https://github.com/Hariharan17194/autogen-support-desk)
-Multi-agent customer-support bot: a **research & triage agent** routes each question to one of five department specialists and shows its confidence and reasoning.
+`FastAPI` · `ChromaDB` · `NetworkX` · `Ollama` · `OpenAI/Claude` · `Docker`
 
-`AutoGen 0.4` `Streamlit` `OpenAI` `Claude`
+> **Why it matters:** demonstrates RAG architecture, graph reasoning, safety, backend/API design and deployment — not just an LLM wrapper.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-#### 🛒 [CrewAI Support Agent](https://github.com/Hariharan17194/crewai-support-agent)
-E‑commerce support assistant: **FAISS-backed RAG** over your policy docs with a live web-search fallback — both answers side by side for comparison.
+### 02 · 🎧 [AutoGen Support Desk](https://github.com/Hariharan17194/autogen-support-desk)
+**Explainable multi-agent ticket triage built around a real support workflow.** A research/triage agent classifies each customer question, reports routing confidence, and hands it to the correct specialist across Billing, Technical Support, Sales, Shipping & Returns, or Account & General.
 
-`CrewAI` `FAISS` `LangChain` `Docker`
+`AutoGen 0.4+` · `Streamlit` · `OpenAI` · `Claude` · `pytest`
 
-</td>
-<td width="50%" valign="top">
+> **Why it matters:** connects 2+ years of customer-support domain experience with agent orchestration, structured routing and defensive fallbacks.
 
-#### ⚡ [n8n AI Agents](https://github.com/Hariharan17194/n8n-ai-agents)
-Production-style n8n workflows: a **Telegram voice assistant** (STT → agent → TTS), an **MCP tool-calling agent**, a **Slack recipe bot**, and an **LLM-powered ETL pipeline**.
+---
 
-`n8n` `MCP` `OpenAI` `Telegram` `Slack`
+### 03 · ⚡ [n8n AI Agents](https://github.com/Hariharan17194/n8n-ai-agents)
+**Four importable AI automations in one portfolio repo.** Includes a Telegram voice assistant (STT → agent → TTS), MCP tool-calling agent, Slack recipe bot, and LLM-powered ETL pipeline, with workflow validation and secret-safety checks in CI.
 
-</td>
-</tr>
-</table>
+`n8n` · `MCP` · `OpenAI` · `Telegram` · `Slack` · `ETL` · `GitHub Actions`
 
-<p align="center"><a href="https://github.com/Hariharan17194?tab=repositories"><b>→ all repositories</b></a> &nbsp;·&nbsp; <a href="https://github.com/Hariharan17194/ai-engineering-lab"><b>→ learning lab (notes & experiments)</b></a></p>
+> **Why it matters:** shows that I can connect AI to real tools and business workflows — visually, securely and reproducibly.
+
+<p align="center"><b>Depth → agents → automation.</b> These three repos are the shortest path through my work.</p>
+<p align="center"><a href="https://github.com/Hariharan17194?tab=repositories"><b>Explore all repositories →</b></a> &nbsp;·&nbsp; <a href="https://github.com/Hariharan17194/ai-engineering-lab"><b>Learning lab →</b></a></p>
 
 ---
 
