@@ -33,7 +33,7 @@ based_in:   Chennai, India  # open to remote & relocation
 focus:      [RAG, knowledge graphs, AI agents, workflow automation]
 edge:       real customer-support domain knowledge → AI that fits real teams
 learning:   [agentic AI, fine-tuning (LoRA/QLoRA), LLM evaluation]
-looking_for: AI Engineer · AI Support Specialist · Prompt Engineer roles
+looking_for: Applied AI · GenAI / LLM · AI Automation Engineer roles
 ```
 
 ---
@@ -148,7 +148,7 @@ Production-style n8n workflows: a **Telegram voice assistant** (STT → agent �
 <div align="center">
 
 **Building AI for the people on both sides of the support ticket.**<br/>
-<sub>Open to AI Engineer / AI Support Specialist / Prompt Engineer roles · India · Remote · Relocation</sub>
+<sub>Open to Applied AI / GenAI / LLM / AI Automation Engineer roles · India · Remote · Relocation</sub>
 
 
 </div>
